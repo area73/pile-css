@@ -16,3 +16,5 @@ The single source of truth approach takes the single responsibility theory to th
 
 ## Gitflow
 [http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/)
+[https://danielkummer.github.io/git-flow-cheatsheet/](https://danielkummer.github.io/git-flow-cheatsheet/)
+
