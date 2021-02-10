@@ -1,0 +1,10 @@
+{
+  "name": "pail-scss",
+  "version": "0.0.1",
+  "description": "A css framework for medium large project based on OOCSS, BEM and ITCSS ",
+  "main": "index.js",
+  "repository": "https://github.com/area73/pile-css",
+  "author": "Rodrigo Erades <rerades@siete3.com>",
+  "license": "MIT",
+  "private": false
+}
